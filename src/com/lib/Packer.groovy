@@ -1,4 +1,4 @@
-def packer() {	
+def deploy() {	
 	node {
 		properties(
 			[parameters(
